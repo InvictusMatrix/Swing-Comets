@@ -1,9 +1,3 @@
-// Kelvin Bhual
-// Assignment 8
-// COP3330
-
-package assignment8;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -725,4 +719,5 @@ class GamePanel extends JPanel implements Runnable, KeyListener {
     public void keyTyped(KeyEvent e) {
         // Not used
     }
+
 }
